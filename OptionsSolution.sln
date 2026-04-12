@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11505.172 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrokOptions", "GrokOptions.csproj", "{1BAA06AA-B1AA-44FA-BC54-8FC516E85E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BAA06AA-B1AA-44FA-BC54-8FC516E85E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAA06AA-B1AA-44FA-BC54-8FC516E85E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAA06AA-B1AA-44FA-BC54-8FC516E85E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAA06AA-B1AA-44FA-BC54-8FC516E85E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200A9D80-5DCA-4115-9FEC-12303585B91A}
+	EndGlobalSection
+EndGlobal
